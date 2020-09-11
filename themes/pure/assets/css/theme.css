@@ -54,7 +54,7 @@
 }
 
 body {
-  /*Change background color here* - aptrinh*/
+  /*Change background color here - aptrinh*/
   background-color: rgb(253, 241, 221);
   color: var(--color-text-default);
   fill: currentColor;
