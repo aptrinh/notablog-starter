@@ -274,7 +274,7 @@
 
 @supports (not (backdrop-filter: blur(20px))) and (not (-webkit-backdrop-filter: blur(20px))) {
   .Navbar {
-    /*change background color here* - aptrinh/
+    /*change background color here - aptrinh*/
     background-color: rgb(253, 241, 221);
   }
 }
