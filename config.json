@@ -1,5 +1,6 @@
 {
   "url": "https://www.notion.so/aptrinh/9745b12f9cb1450f929c5877c89e9703?v=989a2890374642ddb7486749716dba52",
   "theme": "pure-ejs",
-  "previewBrowser": "C:\\Program Files\\Firefox Developer Edition\\firefox.exe"
+  "previewBrowser": "C:\\Program Files\\Firefox Developer Edition\\firefox.exe",
+  "autoSlug": true
 }
